@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "caneta azul"
+    },
+    {
+      "id": "2",
+      "name": "azul caneta"
+    },
+    {
+      "id": "3",
+      "name": "manuel gomes"
+    },
+    {
+      "id": "3",
+      "name": "manuel gomes",
+      "price": "6,00"
+    }
+  ],
+  "customer": [
+    {
+      "id": "1",
+      "name": "manuel gomes"
+    }
+  ]
+}
